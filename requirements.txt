@@ -101,7 +101,7 @@ SQLAlchemy==2.0.23
 stack-data==0.6.3
 tenacity==8.2.3
 terminado==0.18.0
-tiktoken==0.5.1
+tiktoken==0.5.2
 tinycss2==1.2.1
 tornado==6.3.3
 tqdm==4.66.1
